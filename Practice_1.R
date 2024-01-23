@@ -3,7 +3,7 @@ library(usethis)
 
 ## Name, email
 usethis::use_git_config(
-  user.name = "신상원"
+  user.name = "Christopher Shin"
   user.email = "uqwe456@gmail.com"
 )
 
